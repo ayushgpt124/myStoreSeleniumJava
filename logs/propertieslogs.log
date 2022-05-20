@@ -1,0 +1,173 @@
+[INFO ] 2022-05-09 10:19:45.666 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:19:45.675 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:19:45.691 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:19:46.063 [main] RegistrationPage - Clicked on createAnAccountBtn
+[ERROR] 2022-05-09 10:19:46.105 [main] RegistrationPage - error fetching errorMessage
+[INFO ] 2022-05-09 10:32:28.131 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:32:28.140 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:32:28.155 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:32:28.535 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-09 10:32:29.686 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-09 10:32:29.686 [main] RegistrationPage - null
+[INFO ] 2022-05-09 10:42:53.355 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:42:53.365 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:42:53.379 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:42:53.751 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-09 10:42:54.893 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-09 10:42:54.893 [main] RegistrationPage - null
+[INFO ] 2022-05-09 10:45:09.087 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:45:09.103 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:45:09.116 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:45:09.478 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-09 10:45:11.106 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-09 10:45:11.106 [main] RegistrationPage - null
+[INFO ] 2022-05-09 10:50:26.970 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:50:26.981 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:50:26.997 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:50:27.388 [main] RegistrationPage - Clicked on createAnAccountBtn
+[ERROR] 2022-05-09 10:50:27.423 [main] RegistrationPage - error fetching errorMessage no such element: Unable to locate element: {"method":"css selector","selector":"div[class="alert alert-danger"]>ol>li"}
+  (Session info: chrome=101.0.4951.54)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-CP0VS6T4', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac6091dd5e7a186ef6a377f236b33a2a, findElement {using=css selector, value=div[class="alert alert-danger"]>ol>li}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ayush\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56349}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56349/devtoo..., se:cdpVersion: 101.0.4951.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ac6091dd5e7a186ef6a377f236b33a2a
+[INFO ] 2022-05-09 10:54:56.284 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-09 10:54:56.294 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:54:56.308 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-09 10:54:56.614 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-09 10:54:57.708 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-09 10:54:57.810 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-09 10:54:58.048 [main] RegistrationPage - Clicked on createAnAccountBtn
+[ERROR] 2022-05-13 00:53:43.570 [main] HomePage - No list found
+[INFO ] 2022-05-13 00:54:03.566 [main] RegistrationPage - Clicked on signin
+[ERROR] 2022-05-13 00:54:03.569 [main] RegistrationPage - Unable to fetch Page Title
+[ERROR] 2022-05-13 00:54:03.572 [main] RegistrationPage - Unable to fetch Page Title
+[INFO ] 2022-05-13 01:11:09.927 [main] RegistrationPage - Clicked on signin
+[ERROR] 2022-05-13 01:11:09.941 [main] RegistrationPage - Unable to fetch Page Title
+[ERROR] 2022-05-13 01:11:09.943 [main] RegistrationPage - Unable to fetch Page Title
+[INFO ] 2022-05-15 20:24:28.813 [main] HomePage - Faded Short Sleeve T-shirts
+$16.51
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:28.875 [main] HomePage - Blouse
+$27.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:28.923 [main] HomePage - Printed Dress
+$26.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:28.970 [main] HomePage - Printed Dress
+$50.99
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:29.036 [main] HomePage - Printed Summer Dress
+$28.98 $30.51 -5%
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:29.085 [main] HomePage - Printed Summer Dress
+$30.50
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:29.134 [main] HomePage - Printed Chiffon Dress
+$16.40 $20.50 -20%
+Add to cart
+More
+[INFO ] 2022-05-15 20:24:29.134 [main] HomePage - List of Popular elements contain 7 elements
+[INFO ] 2022-05-15 20:24:39.226 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-15 20:24:39.235 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-15 20:24:39.251 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-15 20:24:39.723 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-15 20:24:40.819 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-15 20:24:40.917 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-15 20:24:41.143 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-15 20:31:04.799 [main] HomePage - Faded Short Sleeve T-shirts
+$16.51
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:04.848 [main] HomePage - Blouse
+$27.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:04.893 [main] HomePage - Printed Dress
+$26.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:04.942 [main] HomePage - Printed Dress
+$50.99
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:04.988 [main] HomePage - Printed Summer Dress
+$28.98 $30.51 -5%
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:05.047 [main] HomePage - Printed Summer Dress
+$30.50
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:05.098 [main] HomePage - Printed Chiffon Dress
+$16.40 $20.50 -20%
+Add to cart
+More
+[INFO ] 2022-05-15 20:31:05.098 [main] HomePage - List of Popular elements contain 7 elements
+[INFO ] 2022-05-15 20:40:03.578 [main] HomePage - Faded Short Sleeve T-shirts
+$16.51
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.623 [main] HomePage - Blouse
+$27.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.670 [main] HomePage - Printed Dress
+$26.00
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.718 [main] HomePage - Printed Dress
+$50.99
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.783 [main] HomePage - Printed Summer Dress
+$28.98 $30.51 -5%
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.831 [main] HomePage - Printed Summer Dress
+$30.50
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.879 [main] HomePage - Printed Chiffon Dress
+$16.40 $20.50 -20%
+Add to cart
+More
+[INFO ] 2022-05-15 20:40:03.880 [main] HomePage - List of Popular elements contain 7 elements
+[INFO ] 2022-05-15 21:06:09.875 [main] HomePage - Faded Short Sleeve T-shirts
+$16.51
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:09.916 [main] HomePage - Blouse
+$27.00
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:09.957 [main] HomePage - Printed Dress
+$26.00
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:10.001 [main] HomePage - Printed Dress
+$50.99
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:10.043 [main] HomePage - Printed Summer Dress
+$28.98 $30.51 -5%
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:10.103 [main] HomePage - Printed Summer Dress
+$30.50
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:10.146 [main] HomePage - Printed Chiffon Dress
+$16.40 $20.50 -20%
+Add to cart
+More
+[INFO ] 2022-05-15 21:06:10.147 [main] HomePage - List of Popular elements contain 7 elements
