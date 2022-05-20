@@ -38,7 +38,6 @@ public class RegistrationPage extends Utils {
 			logger.info("Title of page is" + getDriver().getTitle());
 			return getDriver().getTitle();
 		} catch (Exception e) {
-			// TODO: handle exception
 			logger.error("Unable to fetch Page Title");
 		}
 		return null;
