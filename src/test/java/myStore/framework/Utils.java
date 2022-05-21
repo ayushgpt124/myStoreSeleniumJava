@@ -8,9 +8,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import freemarker.core._MiscTemplateException;
-
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public abstract class Utils {

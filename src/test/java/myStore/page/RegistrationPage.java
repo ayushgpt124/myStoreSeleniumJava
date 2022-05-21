@@ -15,7 +15,7 @@ public class RegistrationPage extends Utils {
 	By emailTextField = By.cssSelector("input[id=\"email_create\"]");
 	By createAnAccountBtn = By.cssSelector("button[id=\"SubmitCreate\"]");
 	By errorExistingEmail = By.cssSelector("div[class=\"alert alert-danger\"]>ol>li");
-	By radioTitle = By.cssSelector("input[id=\"id_gender1\"]");
+	By radioTitle = By.cssSelector("input[id=\"id_gender2\"]");
 	By firstname = By.cssSelector("input[name=\"customer_firstname\"]");
 	By lastname = By.cssSelector("input[id=\"customer_lastname\"]");
 	By password = By.cssSelector("input[id=\"passwd\"]");
@@ -36,6 +36,8 @@ public class RegistrationPage extends Utils {
 	By homePhone = By.cssSelector("input[id=\"phone\"]");
 	By MobilePhone = By.cssSelector("input[id=\"phone_mobile\"]");
 	By aliasAddress = By.cssSelector("input[id=\"alias\"]");
+	By registrationButton = By.cssSelector("button[id=\"submitAccount\"]");
+	By formValidationMessage = By.cssSelector("div[class=\"alert alert-danger\"]>p");
 	
 	private static final Logger logger = LogManager.getLogger();
 
@@ -107,12 +109,25 @@ public class RegistrationPage extends Utils {
 		}
 		return null;
 	}
+	
+	public void clickRegisterButton() {
+		try {
+			clickOnElement(registrationButton);
+			logger.info("Clicked on RegisterButton");
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			logger.error(e.getMessage());
+			e.printStackTrace();
+		}
+	}
 
 	public void fillForm(String fname, String lname, String pwd,int days,int month,int year,String faddress,
 			String laddress,String cName,String aName,String city,int state,String zip,int country,
 			String addInfo,String hPhone,String mPhone, String aEmail) {
 		try {
 			//select radio button
+			driverWait(20);
 			clickOnElement(radioTitle);
 			logger.info("clicked on radio");
 			
@@ -203,7 +218,7 @@ public class RegistrationPage extends Utils {
 
 		} catch (Exception e) {
 			// TODO: handle exception
-			logger.error("error fetching errorMessage " + e.getMessage());
+			logger.error(e.getMessage());
 			e.printStackTrace();
 		}
 	}

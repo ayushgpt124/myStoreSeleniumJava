@@ -56,6 +56,12 @@ public class RegistrationSteps {
 		// Write code here that turns the phrase above into concrete actions
 		System.out.println("Step4");
 	}
+	
+	@Then("^I click on Register button$")
+	public void i_click_on_Register_button() throws Exception {
+	    // Write code here that turns the phrase above into concrete actions
+	   registrationPage.clickRegisterButton();
+	}
 
 	@Then("^user fills form$")
 	public void user_fills_form(DataTable table) throws Exception {
