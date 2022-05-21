@@ -1,173 +1,147 @@
-[INFO ] 2022-05-09 10:19:45.666 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:19:45.675 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:19:45.691 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:19:46.063 [main] RegistrationPage - Clicked on createAnAccountBtn
-[ERROR] 2022-05-09 10:19:46.105 [main] RegistrationPage - error fetching errorMessage
-[INFO ] 2022-05-09 10:32:28.131 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:32:28.140 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:32:28.155 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:32:28.535 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-09 10:32:29.686 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
-[INFO ] 2022-05-09 10:32:29.686 [main] RegistrationPage - null
-[INFO ] 2022-05-09 10:42:53.355 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:42:53.365 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:42:53.379 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:42:53.751 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-09 10:42:54.893 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
-[INFO ] 2022-05-09 10:42:54.893 [main] RegistrationPage - null
-[INFO ] 2022-05-09 10:45:09.087 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:45:09.103 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:45:09.116 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:45:09.478 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-09 10:45:11.106 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
-[INFO ] 2022-05-09 10:45:11.106 [main] RegistrationPage - null
-[INFO ] 2022-05-09 10:50:26.970 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:50:26.981 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:50:26.997 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:50:27.388 [main] RegistrationPage - Clicked on createAnAccountBtn
-[ERROR] 2022-05-09 10:50:27.423 [main] RegistrationPage - error fetching errorMessage no such element: Unable to locate element: {"method":"css selector","selector":"div[class="alert alert-danger"]>ol>li"}
-  (Session info: chrome=101.0.4951.54)
+[INFO ] 2022-05-21 10:55:26.983 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 10:55:26.991 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 10:55:27.004 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 10:55:27.214 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 10:55:28.280 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 10:55:28.349 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 10:55:28.507 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 10:55:31.201 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 10:55:31.300 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 10:55:31.403 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 10:55:31.790 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:01:47.482 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:01:47.487 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:01:47.494 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:01:47.700 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:01:48.767 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:01:48.840 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:01:48.989 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:01:51.163 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:01:51.311 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:01:51.410 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:01:51.764 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:01:51.916 [main] RegistrationPage - selecting 8 from dropDown
+[INFO ] 2022-05-21 11:01:51.993 [main] RegistrationPage - selecting year from dropDown
+[INFO ] 2022-05-21 11:03:23.753 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:03:23.759 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:03:23.766 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:03:23.980 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:03:25.040 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:03:25.113 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:03:25.272 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:03:27.438 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:03:27.577 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:03:27.676 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:03:28.029 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:03:28.187 [main] RegistrationPage - selecting 8 from dropDown
+[ERROR] 2022-05-21 11:03:28.219 [main] RegistrationPage - error fetching errorMessage Cannot locate option with text: 2022
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.0.0', revision: '3a21814679'
 System info: host: 'LAPTOP-CP0VS6T4', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [ac6091dd5e7a186ef6a377f236b33a2a, findElement {using=css selector, value=div[class="alert alert-danger"]>ol>li}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ayush\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56349}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56349/devtoo..., se:cdpVersion: 101.0.4951.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: ac6091dd5e7a186ef6a377f236b33a2a
-[INFO ] 2022-05-09 10:54:56.284 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-09 10:54:56.294 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:54:56.308 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-09 10:54:56.614 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-09 10:54:57.708 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
-[INFO ] 2022-05-09 10:54:57.810 [main] RegistrationPage - Field clear
-[INFO ] 2022-05-09 10:54:58.048 [main] RegistrationPage - Clicked on createAnAccountBtn
-[ERROR] 2022-05-13 00:53:43.570 [main] HomePage - No list found
-[INFO ] 2022-05-13 00:54:03.566 [main] RegistrationPage - Clicked on signin
-[ERROR] 2022-05-13 00:54:03.569 [main] RegistrationPage - Unable to fetch Page Title
-[ERROR] 2022-05-13 00:54:03.572 [main] RegistrationPage - Unable to fetch Page Title
-[INFO ] 2022-05-13 01:11:09.927 [main] RegistrationPage - Clicked on signin
-[ERROR] 2022-05-13 01:11:09.941 [main] RegistrationPage - Unable to fetch Page Title
-[ERROR] 2022-05-13 01:11:09.943 [main] RegistrationPage - Unable to fetch Page Title
-[INFO ] 2022-05-15 20:24:28.813 [main] HomePage - Faded Short Sleeve T-shirts
-$16.51
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:28.875 [main] HomePage - Blouse
-$27.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:28.923 [main] HomePage - Printed Dress
-$26.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:28.970 [main] HomePage - Printed Dress
-$50.99
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:29.036 [main] HomePage - Printed Summer Dress
-$28.98 $30.51 -5%
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:29.085 [main] HomePage - Printed Summer Dress
-$30.50
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:29.134 [main] HomePage - Printed Chiffon Dress
-$16.40 $20.50 -20%
-Add to cart
-More
-[INFO ] 2022-05-15 20:24:29.134 [main] HomePage - List of Popular elements contain 7 elements
-[INFO ] 2022-05-15 20:24:39.226 [main] RegistrationPage - Clicked on signin
-[INFO ] 2022-05-15 20:24:39.235 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-15 20:24:39.251 [main] RegistrationPage - Title of page isLogin - My Store
-[INFO ] 2022-05-15 20:24:39.723 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-15 20:24:40.819 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
-[INFO ] 2022-05-15 20:24:40.917 [main] RegistrationPage - Field clear
-[INFO ] 2022-05-15 20:24:41.143 [main] RegistrationPage - Clicked on createAnAccountBtn
-[INFO ] 2022-05-15 20:31:04.799 [main] HomePage - Faded Short Sleeve T-shirts
-$16.51
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:04.848 [main] HomePage - Blouse
-$27.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:04.893 [main] HomePage - Printed Dress
-$26.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:04.942 [main] HomePage - Printed Dress
-$50.99
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:04.988 [main] HomePage - Printed Summer Dress
-$28.98 $30.51 -5%
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:05.047 [main] HomePage - Printed Summer Dress
-$30.50
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:05.098 [main] HomePage - Printed Chiffon Dress
-$16.40 $20.50 -20%
-Add to cart
-More
-[INFO ] 2022-05-15 20:31:05.098 [main] HomePage - List of Popular elements contain 7 elements
-[INFO ] 2022-05-15 20:40:03.578 [main] HomePage - Faded Short Sleeve T-shirts
-$16.51
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.623 [main] HomePage - Blouse
-$27.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.670 [main] HomePage - Printed Dress
-$26.00
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.718 [main] HomePage - Printed Dress
-$50.99
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.783 [main] HomePage - Printed Summer Dress
-$28.98 $30.51 -5%
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.831 [main] HomePage - Printed Summer Dress
-$30.50
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.879 [main] HomePage - Printed Chiffon Dress
-$16.40 $20.50 -20%
-Add to cart
-More
-[INFO ] 2022-05-15 20:40:03.880 [main] HomePage - List of Popular elements contain 7 elements
-[INFO ] 2022-05-15 21:06:09.875 [main] HomePage - Faded Short Sleeve T-shirts
-$16.51
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:09.916 [main] HomePage - Blouse
-$27.00
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:09.957 [main] HomePage - Printed Dress
-$26.00
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:10.001 [main] HomePage - Printed Dress
-$50.99
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:10.043 [main] HomePage - Printed Summer Dress
-$28.98 $30.51 -5%
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:10.103 [main] HomePage - Printed Summer Dress
-$30.50
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:10.146 [main] HomePage - Printed Chiffon Dress
-$16.40 $20.50 -20%
-Add to cart
-More
-[INFO ] 2022-05-15 21:06:10.147 [main] HomePage - List of Popular elements contain 7 elements
+Driver info: driver.version: unknown
+[INFO ] 2022-05-21 11:04:56.673 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:04:56.678 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:04:56.685 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:04:56.894 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:04:57.968 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:04:58.054 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:04:58.210 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:05:00.364 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:05:00.470 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:05:00.614 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:05:00.963 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:05:01.114 [main] RegistrationPage - selecting 8 from dropDown
+[ERROR] 2022-05-21 11:05:02.482 [main] RegistrationPage - error fetching errorMessage Cannot locate option with index: 2022
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-CP0VS6T4', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+[INFO ] 2022-05-21 11:06:57.512 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:06:57.517 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:06:57.525 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:06:57.730 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:06:58.812 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:06:58.885 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:06:59.039 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:07:00.678 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:07:00.782 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:07:00.900 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:07:01.306 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:07:01.466 [main] RegistrationPage - selecting 8 from dropDown
+[ERROR] 2022-05-21 11:07:01.498 [main] RegistrationPage - error fetching errorMessage Cannot locate option with text: 2021&nbsp;&nbsp
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-CP0VS6T4', ip: '192.168.1.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+[INFO ] 2022-05-21 11:07:49.460 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:07:49.466 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:07:49.473 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:07:49.680 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:07:50.756 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:07:50.830 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:07:50.982 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:07:52.639 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:07:52.740 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:07:52.839 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:07:53.221 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:07:53.382 [main] RegistrationPage - selecting 8 from dropDown
+[INFO ] 2022-05-21 11:07:53.477 [main] RegistrationPage - selecting 2 from dropDown
+[INFO ] 2022-05-21 11:13:10.750 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:13:10.755 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:13:10.762 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:13:10.973 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:13:12.560 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:13:12.628 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:13:12.821 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:13:14.995 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:13:15.131 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:13:15.234 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:13:15.577 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:13:15.732 [main] RegistrationPage - selecting 8 from dropDown
+[INFO ] 2022-05-21 11:13:16.067 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:13:16.148 [main] RegistrationPage - Clicked on newsLetterCheckBox
+[INFO ] 2022-05-21 11:13:16.233 [main] RegistrationPage - Clicked on offersCheckbox
+[INFO ] 2022-05-21 11:15:13.508 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 11:15:13.515 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:15:13.521 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 11:15:13.728 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:15:14.792 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 11:15:14.872 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 11:15:15.027 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 11:15:16.679 [main] RegistrationPage - clicked on radio
+[INFO ] 2022-05-21 11:15:16.785 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 11:15:16.885 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 11:15:16.989 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 11:15:17.383 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:15:17.549 [main] RegistrationPage - selecting 8 from dropDown
+[INFO ] 2022-05-21 11:15:17.896 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 11:15:17.977 [main] RegistrationPage - Clicked on newsLetterCheckBox
+[INFO ] 2022-05-21 11:15:18.060 [main] RegistrationPage - Clicked on offersCheckbox
+[INFO ] 2022-05-21 21:01:43.774 [main] RegistrationPage - Clicked on signin
+[INFO ] 2022-05-21 21:01:43.803 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 21:01:43.814 [main] RegistrationPage - Title of page isLogin - My Store
+[INFO ] 2022-05-21 21:01:44.128 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 21:01:45.226 [main] RegistrationPage - An account using this email address has already been registered. Please enter a valid password or request a new one.
+[INFO ] 2022-05-21 21:01:45.324 [main] RegistrationPage - Field clear
+[INFO ] 2022-05-21 21:01:45.565 [main] RegistrationPage - Clicked on createAnAccountBtn
+[INFO ] 2022-05-21 21:01:48.814 [main] RegistrationPage - clicked on radio
+[INFO ] 2022-05-21 21:01:48.970 [main] RegistrationPage - Entering firstname as John
+[INFO ] 2022-05-21 21:01:49.146 [main] RegistrationPage - Entering lastname as Doe
+[INFO ] 2022-05-21 21:01:49.380 [main] RegistrationPage - Entering password as johdoe
+[INFO ] 2022-05-21 21:01:49.871 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 21:01:50.092 [main] RegistrationPage - selecting 8 from dropDown
+[INFO ] 2022-05-21 21:01:50.549 [main] RegistrationPage - selecting 25 from dropDown
+[INFO ] 2022-05-21 21:01:50.669 [main] RegistrationPage - Clicked on newsLetterCheckBox
+[INFO ] 2022-05-21 21:01:50.785 [main] RegistrationPage - Clicked on offersCheckbox
+[INFO ] 2022-05-21 21:01:50.930 [main] RegistrationPage - Entering first address JohnAddress
+[INFO ] 2022-05-21 21:01:51.083 [main] RegistrationPage - Entering first address Noida
+[INFO ] 2022-05-21 21:01:51.226 [main] RegistrationPage - Entering companyName DoeAddress
+[INFO ] 2022-05-21 21:01:51.369 [main] RegistrationPage - Entering companyName testCompany
+[INFO ] 2022-05-21 21:01:51.504 [main] RegistrationPage - Entering companyName Noida
+[INFO ] 2022-05-21 21:01:51.661 [main] RegistrationPage - selecting 3 from dropDown
+[INFO ] 2022-05-21 21:01:51.795 [main] RegistrationPage - Entering companyName 123
+[INFO ] 2022-05-21 21:01:51.879 [main] RegistrationPage - selecting 1 from dropDown
+[INFO ] 2022-05-21 21:01:52.029 [main] RegistrationPage - Entering companyName testAdditional
+[INFO ] 2022-05-21 21:01:52.186 [main] RegistrationPage - Entering companyName 1234567890
+[INFO ] 2022-05-21 21:01:52.338 [main] RegistrationPage - Entering companyName 0987654321
+[INFO ] 2022-05-21 21:01:52.488 [main] RegistrationPage - Entering companyName alias@Email.com

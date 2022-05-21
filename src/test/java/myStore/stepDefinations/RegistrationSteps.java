@@ -63,12 +63,24 @@ public class RegistrationSteps {
 		List<Map<String, String>> form = table.asMaps(String.class, String.class);
 		String fname = form.get(0).get("FirstName");
 		String lname = form.get(0).get("LastName");
-		String email = form.get(0).get("Email");
-		String pNum = form.get(0).get("Phone");
-		String tComment = form.get(0).get("Comment");
-
-		System.out.println("Datatable1--> " + fname + " " + lname + " " + email + " " + pNum + " " + tComment);
-
+		String pwd = form.get(0).get("Pass");
+		int days = Integer.parseInt(form.get(0).get("Days"));
+		int month = Integer.parseInt(form.get(0).get("Month"));
+		int year = Integer.parseInt(form.get(0).get("Year"));
+		String FirstAddressName = form.get(0).get("FirstAddressName");
+		String LastAddressName = form.get(0).get("LastAddressName");
+		String CompanyName = form.get(0).get("CompanyName");
+		String Address = form.get(0).get("Address");
+		String City = form.get(0).get("City");
+		int State = Integer.parseInt(form.get(0).get("State"));
+		String ZIP = form.get(0).get("ZIP");
+		int Country = Integer.parseInt(form.get(0).get("Country"));
+		String Additional = form.get(0).get("Additional");
+		String HomePhone = form.get(0).get("HomePhone");
+		String MobilePhone = form.get(0).get("MobilePhone");
+		String AliasEmail  = form.get(0).get("AliasEmail");
+		//registrationPage.fillForm(fname, lname, pwd, days,month,year);
+		registrationPage.fillForm(fname, lname, pwd, days, month, year, FirstAddressName, Address, LastAddressName, CompanyName, City, State, ZIP, Country, Additional, HomePhone, MobilePhone, AliasEmail);
 	}
 
 }
